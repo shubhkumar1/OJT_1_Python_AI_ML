@@ -46,4 +46,7 @@ To make the application more scalable and accessible, I migrated the local datab
 * Managing database security and connection strings for cloud environments.
 * Building interactive data-driven dashboards with real-time database updates.
 
+## Live URL
+* **Link:** [https://mind-stuff.streamlit.app/](https://mind-stuff.streamlit.app/)
+
 ---
