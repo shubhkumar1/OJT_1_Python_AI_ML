@@ -11,6 +11,11 @@
 ## 🚀 Project Overview
 This project documents my learning journey and implementation of database integration using **Streamlit**. It tracks the evolution from using traditional Relational Databases (SQL) to modern Document-based NoSQL databases (MongoDB).
 
+
+## Live URL
+* **Link:** [https://mind-stuff.streamlit.app/](https://mind-stuff.streamlit.app/)
+
+
 ## 🛠️ Phase 1: Streamlit with SQL (XAMPP)
 Initially, I explored the integration of Python's Streamlit framework with a local SQL environment.
 * **Environment:** Used **XAMPP Server** to host a local MySQL database.
